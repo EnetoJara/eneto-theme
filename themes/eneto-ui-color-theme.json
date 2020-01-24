@@ -431,7 +431,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#d7ba7d"
+				"foreground": "#00ffd5"
 			}
 		},
 		{
@@ -729,7 +729,7 @@
 				"entity.name.operator.custom-literal"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#00ff22"
 			}
 		},
 		{
@@ -785,7 +785,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#4EC9B0",
+				"foreground": "#834ec9",
 				"fontStyle": "italic"
 			}
 		},
@@ -813,7 +813,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#9CDCFE",
+				"foreground": "#ff0000",
 				"fontStyle": "italic"
 			}
 		},

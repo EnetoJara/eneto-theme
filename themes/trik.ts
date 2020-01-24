@@ -16,7 +16,7 @@ export interface HomeState {
 export class Home extends React.Component<HomeProps, HomeState> {
     public state: HomeState;
 
-    public constructor(props: HomeProps) {
+    public constructor (props: HomeProps) {
         super(props);
 
         this.state = {
@@ -39,9 +39,9 @@ export class Home extends React.Component<HomeProps, HomeState> {
     }
 
     public render(): React.ReactElement<HomeProps> {
-        const {listName} = this.state;
+        const { listName } = this.state;
         return (<div>
-            <input type="text" value={listName} onChange={this.onChangeHandler} />
-        </div>)
+            <input type= "text" value = { listName } onChange = { this.onChangeHandler } />
+                </div>)
     }
 }
