@@ -813,7 +813,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#ff0000",
+				"foreground": "#0379a0",
 				"fontStyle": "italic"
 			}
 		},
